@@ -1,0 +1,29 @@
+th{
+    color: #f5983b;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1{
+    height: 50px;
+    width: 100%;
+    background-color: rgba(191, 204, 70, 0.6);
+}
+td{
+    height: 65px;
+    width: 20%;
+    background-color: rgba(230, 145, 84, 0.4);
+}
+body{
+    margin:0;
+    background:url('images/123.jpg');
+    background-size:100%;
+}
+center{
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color:#f54316;
+}
+
+!y#xbe$1gSBailZRM5Kt
